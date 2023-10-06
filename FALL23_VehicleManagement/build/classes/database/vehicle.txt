@@ -1,0 +1,5 @@
+v01,corolla altis,gray,4.0E8,toyota,sedan,2013
+v02,lead,brow-red,4.0E7,honda,scooter,2015
+v03,wave,black,2.0E7,honda,underborn,2010
+v04,exciter 155 vva,black,5.0E7,yamaha,underborn,2022
+v05,air blade,red,4.0E7,honda,scooter,2010
